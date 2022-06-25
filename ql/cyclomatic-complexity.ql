@@ -2,7 +2,7 @@
 * @name cycloatic complexity
 * @description All functions shall have a cyclomatic complexity number of 10 or less
 * @kind problem
-* @id cyclomatic complexity
+* @id cpp/jsf/av-rule-3
 * @problem.severity error
 * @tags maintainability
 */
