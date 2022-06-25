@@ -1,3 +1,3 @@
 name: cyclomatic-complexity
 version: 0.0.0
-suites: codeql-suites
+libraryPathDependencies: common-cpp-coding-standards
