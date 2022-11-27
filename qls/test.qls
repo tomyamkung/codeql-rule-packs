@@ -1,2 +1,2 @@
 - description: test-suite
-- qlpack: cyclomatic-complexity
+- qlpack: test-local
