@@ -12,5 +12,5 @@ import cpp
 from Function f, int c
 where
 c = f.getMetrics().getCyclomaticComplexity() and
-c > 10
+c > 0
 select f, "All functions shall have a cyclomatic complexity number of 10 or less"
